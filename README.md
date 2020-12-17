@@ -4,5 +4,5 @@ This project shows different kinds of visualizations using Seaborn and Matplotli
 
 ## Links:
 more on matplot lib on: https://matplotlib.org <br>
-more on seaborn on: https://seaborn.pydata.org
+more on seaborn on: https://seaborn.pydata.org <br>
 more on using jupyter notebook: https://jupyter.org
